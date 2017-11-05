@@ -1,0 +1,9 @@
+C:\Users\Sreetej\Documents\Visual Studio 2017\Projects\EmployeeSearch-Angular\EmployeeSearch-Angular\bin\EmployeeSearch-Angular.dll.config
+C:\Users\Sreetej\Documents\Visual Studio 2017\Projects\EmployeeSearch-Angular\EmployeeSearch-Angular\bin\EmployeeSearch-Angular.dll
+C:\Users\Sreetej\Documents\Visual Studio 2017\Projects\EmployeeSearch-Angular\EmployeeSearch-Angular\bin\EmployeeSearch-Angular.pdb
+C:\Users\Sreetej\Documents\Visual Studio 2017\Projects\EmployeeSearch-Angular\EmployeeSearch-Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sreetej\Documents\Visual Studio 2017\Projects\EmployeeSearch-Angular\EmployeeSearch-Angular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sreetej\Documents\Visual Studio 2017\Projects\EmployeeSearch-Angular\EmployeeSearch-Angular\obj\Debug\EmployeeSearch-Angular.csproj.CoreCompileInputs.cache
+C:\Users\Sreetej\Documents\Visual Studio 2017\Projects\EmployeeSearch-Angular\EmployeeSearch-Angular\obj\Debug\EmployeeSearch-Angular.dll
+C:\Users\Sreetej\Documents\Visual Studio 2017\Projects\EmployeeSearch-Angular\EmployeeSearch-Angular\obj\Debug\EmployeeSearch-Angular.pdb
+C:\Users\Sreetej\Documents\Visual Studio 2017\Projects\EmployeeSearch-Angular\EmployeeSearch-Angular\obj\Debug\EmployeeSearch-Angular.csprojResolveAssemblyReference.cache
